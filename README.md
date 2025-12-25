@@ -1,6 +1,7 @@
 # Entry Level Data Analyst | Data Enthusiast | Excel, SQL, PowerBI &amp; Python
 # About me
-I am an aspiring Data Analyst with growing expertise in Power BI, SQL, and Python, focused on transforming raw data into meaningful and actionable insights. I am passionate about data-driven decision-making and enjoy analyzing complex datasets to uncover trends, patterns, and business opportunities. Currently, I am strengthening my analytical, statistical, and data visualization skills through hands-on projects and continuous learning, with a strong interest in solving real-world business problems using data.
+An aspiring Data Analyst with growing expertise in Power BI, SQL, and Python, focused on transforming raw data into meaningful and actionable insights. 
+Passionate about data-driven decision-making and enjoy analyzing complex datasets to uncover trends, patterns, and business opportunities. Currently, strengthening my analytical, statistical, and data visualization skills through hands-on projects and continuous learning, with a strong interest in solving real-world business problems using data.
 
  🔹 Key Projects
   Developed interactive Power BI dashboards to track sales, profitability, KPIs, and regional performance using optimized data models and Power Query transformations.
